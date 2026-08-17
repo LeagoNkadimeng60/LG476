@@ -1,0 +1,63 @@
+<main>
+    <header>
+<div class="logo">
+<img src="MNL Tyres Logo.jpeg" >
+</div>
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Tyres </a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="enquiry.html">Request a Quote</a></li>
+    </ul>
+</nav>
+</header>
+
+    <h1>About MNL Tyres</h1>
+
+    <section>
+        <h2> Our Story</h2>
+        <p>MNL Tyres has been supllying quality tyres and expert fitting services to the local community since 10 JAN 2026 <p>
+        </section>
+
+        <section>
+            <h2>Mission and Vision</h2>
+            <p>Our mission is to provide safe, reliable tyres backed by professional service <p>
+            </section>
+
+            <section>
+                <h2>Why choose Us</h2>
+                <ul>
+                    <li>Competitive pricing on all tyres brands</li>
+                    <li>Same-day fitting available</li>
+                    <li>Experienced, certified technicians</li>
+                    <li>Free tyre pressure checks</li>
+                </ul>
+            </section>
+</main>
+
+<main>
+    <h1>Our Services</h1>
+    <section>
+        <h2>Fitting<h2>
+            <p>Proffesional tyre fitting for all vehicle types<p>
+            </section>
+
+            <section>
+                <h2>Balancing</h2>
+                <p>wheel balancing to ensure a smooth,safe ride </p>
+            </section>
+
+            <h2>What's included <h2>
+                <ol>
+                    <li>Inspection of exixsting tyres</li>
+                    <li>Removal and fitting</li>
+                    <li>Balancing and torque check</li>
+                    <li>Final safety inspection</li>
+                </ol>
+                <main>
+                     
+
+            
